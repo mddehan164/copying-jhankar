@@ -39,6 +39,9 @@ section{
     color: white;
     font-weight: 700;
 }
+#exp{
+    text-align: center;
+}
 .dream-area{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
